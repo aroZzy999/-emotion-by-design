@@ -1,1 +1,1 @@
-# -emotion-by-design
+# emotion-by-design
